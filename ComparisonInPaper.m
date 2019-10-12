@@ -104,11 +104,7 @@ for df = 31:32
 
     %% Toeplitz inverse covariance-based clustering of multivariate time series data
     %  'G:\my work\SubspaceKmeans\OtherCode\TICC-based\TICC-master\MyTest2.py'
-    
-
-    %% Greedy gaussian segmentation of multivariate time series
-    %% useful for multivariate time series
-    
+       
 
     %% Casc: Context-aware segmentation and clustering for motif discovery in noisy time series data
     % 'G:\my work\SubspaceKmeans\OtherCode\TICC-based\casc-master\my_test.py'
