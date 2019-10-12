@@ -3,14 +3,14 @@ representations for different patterns.
 
 Author: Jiangyong Duan
 	Key Laboratory of Space Utilization, Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences, 100094, Beijing, China
-        e-mail: duanjy@csu.ac.cn
+        email: duanjy@csu.ac.cn
 
 Date: 2019/10/08
 
 
 To run our codes and show the results on variable-length subsequence clustering in time series, just run "demo.m"
 
-In demo.m£¬the inputs and outputs are listed and explained below:
+In demo.mÂ£Â¬the inputs and outputs are listed and explained below:
 
 	inputs: the input time series and the model parameter settings
 
