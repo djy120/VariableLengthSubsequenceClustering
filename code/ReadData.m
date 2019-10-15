@@ -112,7 +112,7 @@ switch dataSet
         allData = load('.\Dataset\time series clustering\Time Series Epenthesis\ECG2_data.txt');
         
         k = 1;
-        minLen = 20;
+        minLen = 30;
         maxLen = 100;
         lenArray = minLen:10:maxLen;
         
@@ -157,7 +157,7 @@ switch dataSet
         allData = load('.\Dataset\time series clustering\Time Series Epenthesis\ECG1_data.txt');
 
         k = 1;
-        minLen = 20;
+        minLen = 30;
         maxLen = 100;
         lenArray = minLen:10:maxLen;
         
@@ -335,7 +335,7 @@ switch dataSet
         allData = load('.\Dataset\time series clustering\Time Series Epenthesis\ECG2_data.txt');
 
         k = 2;
-        minLen = 20;
+        minLen = 30;
         maxLen = 100;
         lenArray = minLen:10:maxLen;
       
